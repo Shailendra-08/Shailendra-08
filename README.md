@@ -18,7 +18,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/shailendra-mahadule-96955b200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shailendra-mahadule-96955b200" height="30" width="40" /></a>
 <a href="https://www.instagram.com/shailendra_mahadule/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shailedra_mahadule" height="30" width="40" /></a>
- 
  <a href="https://twitter.com/Shailen64591797" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shailedra_mahadule" height="30" width="40" /></a>
 </p>
 <p align="left">
