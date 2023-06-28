@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Logic Building**
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **PYTHON**
 
 - 👨‍💻 All of my projects are available at [https://63a0adb02181fc0f275be698--jovial-gumption-b8c8d0.netlify.app/](https://63a0adb02181fc0f275be698--jovial-gumption-b8c8d0.netlify.app/)
 
